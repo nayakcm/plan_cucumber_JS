@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:roycdiscovery/cucumber-js-playground.git",
-  "author": "Roy Collings <roy_collings@discovery.com>",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "test": "cucumber-js"
